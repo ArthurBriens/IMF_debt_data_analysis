@@ -5,3 +5,9 @@ Project to clean data drawn from the IMF's website. The data chosen here is the 
 Check out the Medium article:
 
 Made by Arthur Briens 
+
+
+Links for research:
+
+https://www.cfr.org/backgrounder/what-happens-when-us-hits-its-debt-ceiling 
+https://www.theglobaleconomy.com/rankings/government_debt/ 
