@@ -1,0 +1,7 @@
+Below is the full report of how the data was cleaned before starting any kind of analysis:
+
+1. Checking for empty rows and removing them.
+2. Checking for duplicate values and removing any.
+3. Checking for spelling mistakes in country names. 
+4. Identifying any missing values, or substitute values such as 'NA' to remove from the dataset
+5. Putting dates, numbers and text under the same format
