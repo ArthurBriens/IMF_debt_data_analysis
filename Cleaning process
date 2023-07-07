@@ -1,3 +1,7 @@
+The original dataset comes from the IMF's official website and database and is called 'Public Finances in Modern History'. 
+Available at: https://www.imf.org/external/datamapper/datasets/FPP  (Last accessed 07/07/2023)
+All rights reserved by the IMF. 
+
 Below is the full report of how the data was cleaned before starting any kind of analysis:
 
 1. Checking for empty rows and removing them.
