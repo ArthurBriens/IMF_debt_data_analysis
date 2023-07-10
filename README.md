@@ -9,7 +9,7 @@ Made by Arthur Briens
 
 Links for research:
 
-https://www.cfr.org/backgrounder/what-happens-when-us-hits-its-debt-ceiling 
-https://www.theglobaleconomy.com/rankings/government_debt/ 
-https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit 
-https://unctad.org/news/blog-world-lacks-effective-global-system-deal-debt
+-  https://www.cfr.org/backgrounder/what-happens-when-us-hits-its-debt-ceiling
+-  https://www.theglobaleconomy.com/rankings/government_debt/
+-  https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit
+-  https://unctad.org/news/blog-world-lacks-effective-global-system-deal-debt
